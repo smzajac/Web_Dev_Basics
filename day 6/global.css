@@ -1,0 +1,26 @@
+/*.box {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  margin-bottom: 15px;
+}
+
+
+.red {
+  background-color: red;
+
+}*/
+
+.box {
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin: 5px;
+  background-color: black;
+}
+
+.box-green { background-color: green; }
+.box-red { background-color: red; }
+.box-blue { background-color: blue; }
+.box-orange { background-color: orange; }
+.box-grey { background-color: grey; }
